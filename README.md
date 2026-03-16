@@ -101,6 +101,8 @@ Base URL: `http://localhost:5000/api/products`
 │   │   └── db.js                  # MongoDB connection
 │   ├── controllers/
 │   │   └── product.controller.js  # CRUD logic
+│   ├── models/
+│   │   └── product.model.js       # Models
 │   ├── routes/
 │   │   └── product.route.js       # Product routes
 │   └── server.js                  # Express app entry point
